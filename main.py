@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.text('Hi There Ayo')
+st.text('Hi There')

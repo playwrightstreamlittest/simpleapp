@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.text('How are you today?')
+st.text('Happy Holidays!')

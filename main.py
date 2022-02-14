@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.text('Happy Valentines Day!')
+st.text('Happy Valentines!')

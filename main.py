@@ -18,3 +18,9 @@ graph.edge('new', 'runmem')
 graph.edge('sleep', 'runmem')
 
 st.graphviz_chart(graph)
+
+st.sidebar.title("Navigation")
+st.sidebar.info(
+        "This is a test "
+        "[issues](https://afafore1-streamlit-example-streamlit-app-7ugira.streamlitapp.test/) "
+    )

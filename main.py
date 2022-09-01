@@ -19,8 +19,9 @@ graph.edge('sleep', 'runmem')
 
 st.graphviz_chart(graph)
 
-st.sidebar.title("Navigation")
-st.sidebar.info(
-        "This is a test "
-        "[issues](https://afafore1-streamlit-example-streamlit-app-7ugira.streamlitapp.test/) "
-    )
+st.sidebar.header('Resources')
+st.sidebar.markdown('''
+- [test1](https://afafore1-teststreamlitapp-streamlit-app-v046h1.head.streamlit.run/)
+- [test2](https://afafore1-teststreamlitapp-streamlit-app-v046h1.head.streamlit.run/)
+- [test3](https://afafore1-30days-streamlit-app-b0kqv2.head.streamlit.run/)
+''')

@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write('Hi')
+st.write('Hey')
 st.sidebar.header('Resources')
 st.sidebar.markdown('''
 - [test1](https://afafore1-some-app.streamlit.com)
